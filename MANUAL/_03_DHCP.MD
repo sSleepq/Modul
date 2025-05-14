@@ -50,3 +50,5 @@ nano /etc/dhcp/dhcpd.conf
 `option domain-name-servers` - указываем DNS сервера для выдачи
 
 `option routers` - выдаваемый шлюз по умолчанию
+
+> Не забываем перезапустить службу
